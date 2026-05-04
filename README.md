@@ -32,4 +32,4 @@ Este projeto é uma simulação de um sistema de monitoramento de reservatório 
 2. Instale a biblioteca necessária:
    ```bash
    pip install colorama
-odigo para monitormento de rersevatorio
+
