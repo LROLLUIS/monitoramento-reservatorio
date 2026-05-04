@@ -1,5 +1,5 @@
 # monitoramento-reservatorio
-c# Sistema de Monitoramento de Níveis de Água 💧
+# Sistema de Monitoramento de Níveis de Água 💧
 
 Este projeto é uma simulação de um sistema de monitoramento de reservatório desenvolvido em Python. O objetivo é exibir mensagens de alerta no terminal com cores diferentes, variando conforme o nível de água para facilitar a identificação visual de riscos.
 
